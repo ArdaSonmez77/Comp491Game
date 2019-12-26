@@ -1,0 +1,20 @@
+1 lets start butonuna basarak başlar oyun
+
+2 farede sol tuşla basılı tutup bırakırsan ıstakada uygun bir yer bakıyor.
+
+3 sağ tuşta basılı tutarsan atılacak taşaları belirliyor (mümkünse karenin içine sürükleyerek bırak sağ tuş ile)
+
+4 sonrasında sırayla tüm oyuncular yerdekini almak veya yeni taş çekmek (2 seçenekten biri random seçiliyor)
+
+5 sıra sana gelince 2 buton çıkıyor yerdekini al veya yeni taş çek diye bu alınan taşlar nasıl alındığı önemli değil (son 3 kareyi
+boş bırak oraya koyacak döngü böyle devam ediyor.)
+
+ortadaki taşlar bitince otomatik index hatası veriyor.
+
+EKSİKLER:
+-bazen taşları gereksiz yerlere koyuyor.
+-Birde bir sonraki turda taşlar üst üste geliyor eğer kişi senden çekmezse.(tuna hoca orada bir kere daha kare oluştur demişti)
+bunlara bakma şanssın olur mu?
+bakmasanda sıkıntı değil 
+
+birde sesleri ekledikten sonra bana mailde github linkini atabilirmisin son birkez bakayım.
